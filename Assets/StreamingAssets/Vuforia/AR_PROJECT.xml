@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="tree_005" size="1.000000 1.330132" />
+    <ImageTarget name="TreeNote" size="1.000000 1.333935" />
+    <ImageTarget name="EastGate_001" size="1.000000 0.749662" />
+    <ImageTarget name="tree_004" size="1.000000 0.923285" />
+    <ImageTarget name="DaChen_001" size="1.000000 0.749662" />
+    <ImageTarget name="E_gate" size="1.000000 0.749662" />
+    <ImageTarget name="tree_003" size="1.000000 1.333935" />
+    <ImageTarget name="tree_002" size="1.000000 1.333935" />
+    <ImageTarget name="tree_001" size="1.000000 1.333935" />
+    <ImageTarget name="S__39469059" size="1.000000 0.749662" />
+  </Tracking>
+</QCARConfig>
