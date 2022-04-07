@@ -1,3 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 Magic[[:space:]]School[[:space:]]-AR filter=lfs diff=lfs merge=lfs -text
+apk/TEST1230_8.apk filter=lfs diff=lfs merge=lfs -text
