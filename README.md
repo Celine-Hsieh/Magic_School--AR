@@ -1,4 +1,5 @@
 # Magic_School--AR
  An AR game app design with Unity and C# script.
 
-https://github.com/Celine-Hsieh/Magic_School--AR/blob/main/AR_game%20video(3%20min).mov?raw=true
+https://user-images.githubusercontent.com/69034494/163409672-d43041cf-12f2-4ed6-8c91-5fc4eae98818.mov
+
