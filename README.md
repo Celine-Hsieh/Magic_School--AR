@@ -43,6 +43,7 @@ After completing the level, go back to the Department of Architecture to find th
 ## UI
  <h1>
      <img src="https://user-images.githubusercontent.com/69034494/163519722-60a3e4e0-0a57-4b33-bf25-a8184737a142.png" width="800" height="600"/>
+     <img src="https://user-images.githubusercontent.com/69034494/163519931-c470666d-e40b-497c-87de-4325aa081d50.png" width="800" height="600"/>
  </h1>
 
 
