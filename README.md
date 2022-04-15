@@ -22,5 +22,5 @@ https://user-images.githubusercontent.com/69034494/163409672-d43041cf-12f2-4ed6-
 1. The main levels and guide points are all triggered by AR scanning, and you can get the guide introduction.
 2. In the main level, there will be AR NPCs that can interact to get game prompts and enter the level.
 <h1>
-    <img src="https://user-images.githubusercontent.com/69034494/163413130-e69069e3-a041-49fd-990d-cffa6cf57009.png" width="800" height="600"/>
+    <img src="https://user-images.githubusercontent.com/69034494/163413130-e69069e3-a041-49fd-990d-cffa6cf57009.png" width="600" height="400"/>
 </h1>
