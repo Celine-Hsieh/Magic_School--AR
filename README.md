@@ -1,7 +1,5 @@
 # Magic_School--AR
- An AR game app design with Unity and C# script.
-
-
+ An AR game app for android design with Unity and C# script.
 
 https://user-images.githubusercontent.com/69034494/163520093-14047f49-409e-4412-9af2-9ae0d4b1c02d.mp4
 
