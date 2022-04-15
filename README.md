@@ -40,5 +40,10 @@ After completing the level, go back to the Department of Architecture to find th
      <img src="https://user-images.githubusercontent.com/69034494/163519590-63783571-42b9-4467-befb-967b961c1cd1.png" width="800" height="350"/>
  </h1>
 
+## UI
+ <h1>
+     <img src="https://user-images.githubusercontent.com/69034494/163519722-60a3e4e0-0a57-4b33-bf25-a8184737a142.png" width="800" height="600"/>
+ </h1>
+
 
 
