@@ -28,5 +28,5 @@ https://user-images.githubusercontent.com/69034494/163409672-d43041cf-12f2-4ed6-
 3. The main level is based on dislocation puzzles. In the wrong position and angle, it is impossible to know the treasure. Only in the correct position and angle can the image containing the treasure be successfully spelled out.
 4. The magic wand shoots the node, the physical treasure appears, and gets it.
  <h1>
-     <img src="https://user-images.githubusercontent.com/69034494/163519347-0726689a-56ea-4818-bcda-3791adbc7091.png" width="800" height="300"/>
+     <img src="https://user-images.githubusercontent.com/69034494/163519347-0726689a-56ea-4818-bcda-3791adbc7091.png" width="800" height="250"/>
  </h1>
