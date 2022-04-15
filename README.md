@@ -14,6 +14,6 @@ https://user-images.githubusercontent.com/69034494/163409672-d43041cf-12f2-4ed6-
    The game levels are hidden in the guide points, and players need to pass through each guide point and learn the history of the campus attractions at the same time.
    
   <h1>
-    <img src="https://user-images.githubusercontent.com/69034494/163413130-e69069e3-a041-49fd-990d-cffa6cf57009.png" width="400" height="600"/>
+    <img src="https://user-images.githubusercontent.com/69034494/163413130-e69069e3-a041-49fd-990d-cffa6cf57009.png" width="800" height="600"/>
     <img src="https://user-images.githubusercontent.com/69034494/163413333-71d022a5-fabf-4368-be5c-79e8b6ba2fa8.png" width="400" height="600"/>
   </h1>
