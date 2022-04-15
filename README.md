@@ -30,3 +30,8 @@ https://user-images.githubusercontent.com/69034494/163409672-d43041cf-12f2-4ed6-
  <h1>
      <img src="https://user-images.githubusercontent.com/69034494/163519347-0726689a-56ea-4818-bcda-3791adbc7091.png" width="800" height="250"/>
  </h1>
+
+## Game Map
+
+Route : Start from the Department of Architecture and go all the way to Xiaodongmen
+After completing the level, go back to the Department of Architecture to find the principal of the School of Magic and receive the certificate
